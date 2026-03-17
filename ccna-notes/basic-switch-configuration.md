@@ -62,7 +62,17 @@ It's a good thing to display a message on the login terminal of the device
 ```
 banner motd # This is the swtich for lower primary #
 ```
+---
+## Ports and IP Address
+Let's assign an IP to the switches
+```
+interface vlan 1
+ip address 192.168.1.253 255.255.255.0
+no shutdown
+exit
 
+show ip interface brief
+```
 ## Example of Basic Initial Configuration
 
 Below is a simple example combining some basic switch configuration commands.

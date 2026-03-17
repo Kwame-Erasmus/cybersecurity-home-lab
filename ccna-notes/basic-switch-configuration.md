@@ -7,7 +7,7 @@ Learn how to perform basic configuration on a network switch.
 hostname switch-1
 ***
 
-## Configure passwords
+## Configure password on console management line/port
 put password on the console management port
 
 After this, connection to the console management port will require password to enter the user EXEC mode

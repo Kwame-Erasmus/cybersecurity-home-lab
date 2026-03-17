@@ -5,7 +5,7 @@ Learn how to perform basic configuration on a network switch.
 
 ## Device name
 hostname switch-1
-**
+***
 
 ## Enable privileged mode
 

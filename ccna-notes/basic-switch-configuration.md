@@ -7,9 +7,12 @@ Learn how to perform basic configuration on a network switch.
 hostname switch-1
 ***
 
-## Enable privileged mode
+## Configure passwords
+put password on the console management port
+console line 0
+password password
+login
 
-enable / en
 
 - Enter global configuration mode
 

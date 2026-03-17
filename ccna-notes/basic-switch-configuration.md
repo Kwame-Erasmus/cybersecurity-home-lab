@@ -17,6 +17,8 @@ After this, connection to the console management port will require password to e
 - password password
 
 - login
+  ***
+  ## Secure privilege EXEC mode with password
 
 
 

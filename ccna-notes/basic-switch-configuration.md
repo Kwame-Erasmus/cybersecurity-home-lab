@@ -16,6 +16,8 @@ put password on the console management port
 
 - login
 
+  After this, connection to the console management port will require password to enter the user EXEC mode
+
 
 - Enter global configuration mode
 

@@ -19,8 +19,7 @@ After this, connection to the console management port will require password to e
 - login
   ***
   ## Secure privilege EXEC mode with password
-
-
+  - enable secret password
 
 
 - Enter global configuration mode

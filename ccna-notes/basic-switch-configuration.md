@@ -53,6 +53,15 @@ exit
 ---
 ## Encrypt password
 The start-up file running displays passwords in plain text so it will be proper we encrypt this information
+```
+serivce password-encryption
+```
+---
+## Banner messages
+It's a good thing to display a message on the login terminal of the device
+```
+banner motd # This is the swtich for lower primary #
+```
 
 ## Example of Basic Initial Configuration
 

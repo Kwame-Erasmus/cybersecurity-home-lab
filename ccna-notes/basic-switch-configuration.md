@@ -10,11 +10,11 @@ hostname switch-1
 ## Configure passwords
 put password on the console management port
 
-console line 0
+- console line 0
 
-password password
+- password password
 
-login
+- login
 
 
 - Enter global configuration mode

@@ -4,7 +4,7 @@
 
 In enterprise networks, systems are segmented into separate networks (VLANs) to improve security, performance, and organization. However, devices in different VLANs cannot communicate by default because they exist in separate broadcast domains.
 
-This project demonstrates how pfSense can be configured as a Layer 3 device to enable inter-VLAN routing, allowing controlled communication between multiple isolated networks in a home lab environment.
+This project demonstrates how pfsense can be configured as a layer 3 device to enable inter-Vlan routing, allowing controlled communication between multiple isolated networks in a home lab environment
 ---
 
 ## 🏗️ Lab Setup

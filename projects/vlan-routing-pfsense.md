@@ -1,10 +1,10 @@
 # Implementing Inter-VLAN Routing Using pfSense
 
 ## 🧠 Overview
-In modern enterprise networks, different departments and systems are segmented into separate networks (VLANs) for organization and security. However, these networks still need controlled communication.
 
-The objective of this project is to configure inter-VLAN routing using pfSense to enable communication between isolated networks in a lab environment.
+In enterprise networks, systems are segmented into separate networks (VLANs) to improve security, performance, and organization. However, devices in different VLANs cannot communicate by default because they exist in separate broadcast domains.
 
+This project demonstrates how pfSense can be configured as a Layer 3 device to enable inter-VLAN routing, allowing controlled communication between multiple isolated networks in a home lab environment.
 ---
 
 ## 🏗️ Lab Setup

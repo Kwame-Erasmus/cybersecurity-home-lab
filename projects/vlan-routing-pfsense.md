@@ -9,7 +9,7 @@ The objective of this project is to configure inter-VLAN routing using pfSense t
 
 ## 🏗️ Lab Setup
 
-![Network Diagram](../images/diagrams/network_diagram.png)
+![Network Diagram](../images/network_diagram.png)
 
 ### Network Segments:
 - **CORP_NET**: 192.168.3.0/24 (Windows 10 Client)
